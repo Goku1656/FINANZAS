@@ -1,0 +1,6 @@
+{
+  "name": "Glori - Créditos y Cobranzas",
+  "description": "Sistema de cuentas por cobrar, ventas al crédito, amortización francesa y prelación legal de pagos para comercios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
